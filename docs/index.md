@@ -63,7 +63,7 @@ layout: default
 * **GitHub Repo:** 瀏覽本站所有原始碼、範例程式與說明文件。
     * **[前往 GitHub Repo] (請在這裡貼上您的 GitHub Repo 連結)**
 * **範例程式碼 (Sample Code):**
-    * **[查看範例程式碼] (samples)** _(<-- 假設您的範例放在 /docs/samples/ 資料夾)_
+    * **[查看範例程式碼] (samples)**
 * **Docker Hub:** (如果有的話)
     * **[前往 Docker Hub 查看映像檔] (請在這裡貼上您的 Docker Hub 連結)**
 
