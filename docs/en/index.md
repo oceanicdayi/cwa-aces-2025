@@ -18,17 +18,26 @@ Explore the latest advancements from the **Central Weather Administration (CWA)*
 
 **Get hands-on!** Explore our interactive applications to understand CWA's earthquake warning systems.
 
-> ### 🤖 AI-EEW System (with NTU)
+> ### 🤖 AI-EEW System (TTSAM Demo)
 >
 > Experience how AI enhances P-wave identification and shortens strong-motion warning times.
 >
-> * **[Try the AI-EEW Demo on Hugging Face](Please paste your HF Space link here)**
+> * **[Try the AI-EEW Demo on Hugging Face](https://huggingface.co/spaces/SeisBlue/TTSAM)**
 
-> ### 📊 Interactive System Showcase
+> ### 📊 Hugging Face Space Interactive Demos (System Showcase)
 >
-> Understand the scale of the CWA network and the science of earthquake warnings through interactive charts and maps.
+> Explore a series of interactive charts and maps to understand CWA's network, seismic waveforms, and the science of earthquake warnings.
 >
-> * **[Try the Interactive Showcase on Hugging Face](Please paste your 2nd HF Space link here)**
+> * **Display Taiwan EEW Messages:**
+>   * **[Try it here](https://huggingface.co/spaces/cwadayi/streamlit_alarm_Taiwan)**
+> * **Display Taiwan Seismic Waveforms:**
+>   * **[Try it here](https://huggingface.co/spaces/cwadayi/streamlit_obspy)**
+> * **Display Global Earthquake Epicenters:**
+>   * **[Try it here](https://huggingface.co/spaces/cwadayi/streamlit)**
+> * **Real-time Earthquake Monitoring & Location Dashboard:**
+>   * **[Try it here](https://huggingface.co/spaces/cwadayi/earthquake_monitoring)**
+> * **Seismic Intensity Data Dashboard:**
+>   * **[Try it here](https://huggingface.co/spaces/cwadayi/Grafana_like_2)**
 
 > ### ❓ Dify AI Assistant
 >

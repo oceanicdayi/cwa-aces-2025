@@ -17,17 +17,26 @@ layout: default
 
 **立即動手玩！** 透過我們的互動式應用程式，深入了解 CWA 的地震預警系統。
 
-> ### 🤖 AI 地震預警系統 (與台大合作)
+> ### 🤖 AI 地震預警系統 (TTSAM Demo)
 >
 > 體驗 AI 如何強化 P 波識別能力，縮短強震通報時間。
 >
-> * **[前往 Hugging Face 體驗 AI-EEW Demo](請在這裡貼上您的 HF Space 連結)**
+> * **[前往 Hugging Face 體驗 AI-EEW Demo](https://huggingface.co/spaces/SeisBlue/TTSAM)**
 
-> ### 📊 系統特色互動介面
+> ### 📊 Hugging Face Space 互動區 (系統特色介面)
 >
-> 透過互動式圖表與地圖，了解 CWA 觀測網的規模、分佈以及地震預警的科學原理。
+> 透過一系列的互動式圖表與地圖，了解 CWA 觀測網、地震波形紀錄、以及地震預警的科學原理。
 >
-> * **[前往 Hugging Face 體驗互動介面](請在這裡貼上您第二個 HF Space 連結)**
+> * **顯示台灣地震預警訊息:**
+>   * **[點此體驗](https://huggingface.co/spaces/cwadayi/streamlit_alarm_Taiwan)**
+> * **顯示台灣地震波形紀錄:**
+>   * **[點此體驗](https://huggingface.co/spaces/cwadayi/streamlit_obspy)**
+> * **顯示全球地震震央:**
+>   * **[點此體驗](https://huggingface.co/spaces/cwadayi/streamlit)**
+> * **即時地震監測與定位儀表板:**
+>   * **[點此體驗](https://huggingface.co/spaces/cwadayi/earthquake_monitoring)**
+> * **地震震度資料展示儀表板:**
+>   * **[點此體驗](https://huggingface.co/spaces/cwadayi/Grafana_like_2)**
 
 > ### ❓ Dify 智能問答
 >
