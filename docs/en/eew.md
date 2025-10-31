@@ -142,15 +142,15 @@ As shown above, this method demonstrates the complete automated flow of the EEW 
 
 ### Core Calculation Formulas
 
-**1. Magnitude ($M_{pd}$) Calculation**
-The system uses the vertical displacement ($P_d$) from the first few seconds of the P-wave and the epicentral distance ($R$) to estimate the magnitude $M_{pd}$:
+**1. Magnitude (<i>M<sub>pd</sub></i>) Calculation**
+The system uses the vertical displacement (<i>P<sub>d</sub></i>) from the first few seconds of the P-wave and the epicentral distance (<i>R</i>) to estimate the magnitude <i>M<sub>pd</sub></i>:
 
-$$M_{pd} = 5.067 + 1.281 \times \log10(P_d) + 1.760 \times \log10(R)$$
+<img src="https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20M_%7Bpd%7D%20%3D%205.067%20&plus;%201.281%20%5Ctimes%20%5Clog10%28P_d%29%20&plus;%201.760%20%5Ctimes%20%5Clog10%28R%29" alt="M_pd = 5.067 + 1.281 * log10(P_d) + 1.760 * log10(R)">
 
 **2. PGA Prediction (Intensity)**
-Next, the system uses the estimated magnitude ($M$), epicentral distance ($r$), and station site effect ($S_i$) to predict the Peak Ground Acceleration (PGA):
+Next, the system uses the estimated magnitude (<i>M</i>), epicentral distance (<i>r</i>), and station site effect (<i>S<sub>i</sub></i>) to predict the Peak Ground Acceleration (PGA):
 
-$$PGA = 1.657 \times e^{1.533 \times M} \times r^{-1.607} \times S_i$$
+<img src="https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20PGA%20%3D%201.657%20%5Ctimes%20e%5E%7B1.533%20%5Ctimes%20M%7D%20%5Ctimes%20r%5E%7B-1.607%7D%20%5Ctimes%20S_i" alt="PGA = 1.657 * e^(1.533 * M) * r^(-1.607) * S_i">
 
 ---
 
@@ -163,8 +163,8 @@ The algorithm described above is implemented within CWA's Earthworm system as a 
 
 1.  **Data Import:** `IMPORT` module **imports real-time data**.
 2.  **Waveform Ring (WAVE_RING):** Stores all real-time **wave packets**.
-3.  **P-wave Picking (Auto-pick):** `PICK_EEW` module **auto-picks P-wave arrivals** and **calculates P-wave amplitudes ($P_d$)**.
-4.  **Pick Ring (PICK_RING):** Stores the P-arrival times and $P_d$ values.
+3.  **P-wave Picking (Auto-pick):** `PICK_EEW` module **auto-picks P-wave arrivals** and **calculates P-wave amplitudes (<i>P<sub>d</sub></i>)**.
+4.  **Pick Ring (PICK_RING):** Stores the P-arrival times and <i>P<sub>d</sub></i> values.
 5.  **Location & Estimation (Locate & Estimate):** `TCPD` module reads P-info, **locates the event**, and **estimates the magnitude**.
 6.  **Hypocenter Ring (HYPO_RING):** Stores the resulting **earthquake message**.
 7.  **Decision & Release (Decision Making):** `DCSN` module reads the message, **estimates intensities**, and makes the **decision to release the EEW**.
@@ -213,16 +213,16 @@ CWA's alert dissemination uses a **tiered** strategy, with different criteria an
 
 | Channel | Dissemination Criteria | Transmitting Delay |
 | :--- | :--- | :--- |
-| **PWS** | M >= 5.0 and I > 3 <br> **or** <br> M >= 6.5 and I > 2 | 5.5 Seconds |
-| **TV** | M >= 5.0 and I > 2 | 10–20 Seconds |
-| **DC** | M >= 4.5 and I > 2 | 0.8 Seconds |
+| **PWS** | <i>M</i> &ge; 5.0 <b>and</b> <i>I</i> &ge; 3 <br> <b>or</b> <br> <i>M</i> &ge; 6.5 <b>and</b> <i>I</i> &ge; 2 | 5.5 Seconds |
+| **TV** | <i>M</i> &ge; 5.0 <b>and</b> <i>I</i> &ge; 2 | 10–20 Seconds |
+| **DC** | <i>M</i> &ge; 4.5 <b>and</b> <i>I</i> &ge; 2 | 0.8 Seconds |
 
 <br>
 
 **Channel Definitions:**
 
 * **PWS (Public Warning Service):**
-    This is the national cell broadcast sent to the public's mobile phones. It has the highest threshold (typically Intensity 4, though $I>3$ is the system setting) to avoid frequent, disruptive alerts.
+    This is the national cell broadcast sent to the public's mobile phones. It has the highest threshold (typically Intensity 4, though <i>I</i> &ge; 3 is the system setting) to avoid frequent, disruptive alerts.
 
 * **TV (Television):**
     Alerts are sent to television broadcasters for on-air interruption or tickers.
