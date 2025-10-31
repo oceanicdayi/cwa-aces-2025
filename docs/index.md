@@ -1,10 +1,9 @@
 ---
-# /docs/index.md
-#
-# 這是網站的首頁
-# "layout: default" 會套用 _config.yml 中設定的預設佈局
+# /docs/index.md (中文)
 layout: default
 ---
+
+<p style="text-align: right;"><strong>[Switch to English](en/index.md)</strong></p>
 
 # 歡迎蒞臨 CWA ACES 研討會攤位
 
