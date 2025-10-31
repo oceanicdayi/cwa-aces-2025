@@ -38,9 +38,9 @@ layout: default
 > * **地震震度資料展示儀表板:**
 >   * **[點此體驗](https://huggingface.co/spaces/cwadayi/Grafana_like_2)**
 
-> ### ❓ Dify 智能問答
+> ### ❓ Dify 智能問答：全球地震活動分析
 >
-> 對我們的系統有疑問嗎？**直接在下方**詢問 AI 助理！
+> **直接在下方輸入「起訖時間」**（例如：「請幫我分析 2024-04-01 到 2024-04-03 的全球地震活動」），AI 助理將即時搜尋 **IRIS 地震資料庫**，並為您產生一份完整的地震活動分析報告！
 >
 > <iframe
 > 	src="https://udify.app/workflow/ZGqKFFhE2yCmYrv1"
@@ -81,7 +81,7 @@ layout: default
 * **範例程式碼 (Sample Code):**
     * **[查看範例程式碼](samples)**
 * **Docker Hub:** (如果有的話)
-    * **[前往 Docker Hub 查看映像檔](请在這裡貼上您的 Docker Hub 連結)**
+    * **[前往 Docker Hub 查看映像檔](請在這裡貼上您的 Docker Hub 連結)**
 
 ---
 *中央氣象署 地震測報中心 (CWA Seismological Center)*

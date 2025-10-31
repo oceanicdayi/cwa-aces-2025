@@ -39,9 +39,9 @@ Explore the latest advancements from the **Central Weather Administration (CWA)*
 > * **Seismic Intensity Data Dashboard:**
 >   * **[Try it here](https://huggingface.co/spaces/cwadayi/Grafana_like_2)**
 
-> ### ❓ Dify AI Assistant
+> ### ❓ Dify AI Assistant: Global Seismicity Analysis
 >
-> Have questions about our systems? Ask our AI assistant **directly below**!
+> **Enter a start and end time below** (e.g., "Please analyze global seismic activity from 2024-04-01 to 2024-04-03"). The AI assistant will query the **IRIS earthquake database** in real-time and generate a complete seismic activity analysis report for you!
 >
 > <iframe
 > 	src="https://udify.app/workflow/ZGqKFFhE2yCmYrv1"
