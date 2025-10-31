@@ -55,7 +55,7 @@ For researchers and developers, we provide the following open-source resources:
     * `cwadayi/earthworm_ubuntu22.04_eew`
     * **[View on Docker Hub](https://hub.docker.com/r/cwadayi/earthworm_ubuntu22.04_eew)**
 
-* **Seismic Data (GDMS):**
+* **Seismic Data ( (GDMS):**
     All CWA seismic data (CWASN, TSMIP) is available for free.
     * **[Access Data via GDMS](https://gdms.cwa.gov.tw/)**
     * *(Note: Requires free registration. Real-time data has a 15-minute delay.)*
@@ -66,6 +66,15 @@ For researchers and developers, we provide the following open-source resources:
 ## 🇹🇼 About the CWA
 
 The **Seismological Center** of the Central Weather Administration (CWA), Taiwan, is the official agency responsible for monitoring seismic activity, issuing earthquake reports, and providing real-time earthquake early warnings to protect the public.
+
+## 🤖 Built with AI!
+
+Curious how this repository and website came together so quickly? It was a human-AI collaboration!
+
+This entire project, from the site structure and Markdown code to the technical explanations, image captions, and English translations, was built step-by-step with the help of **Gemini**, Google's AI assistant.
+
+Want to see the creative process? You can read the entire conversation where we built this from scratch!
+➡️ **[Check out the Gemini conversation here](https://gemini.google.com/share/cbb413238016)**
 
 ---
 ---
@@ -138,3 +147,12 @@ The **Seismological Center** of the Central Weather Administration (CWA), Taiwan
 ## 🇹🇼 關於 CWA
 
 **交通部中央氣象署 (CWA) 地震測報中心** 是臺灣官方的地震監測機構，負責監測地震活動、發布地震報告，並提供即時的地震預警，以保障民眾安全。
+
+## 🤖 AI 協作打造！
+
+好奇這個 repo 和網站是如何在這麼短的時間內誕生的嗎？這其實是一次「**人類 + AI**」的協同創作！
+
+本專案的所有內容，從網站架構、Markdown 程式碼、技術文件撰寫、圖片說明到英文翻譯，都是在 **Gemini** (Google 的 AI 助理) 的協助下一步步打造出來的。
+
+想看看這個「從 0 到 1」的完整創作過程嗎？您可以閱讀我們之間所有的對話紀錄！
+➡️ **[點此觀看完整的 Gemini 對話紀錄](https://gemini.google.com/share/cbb413238016)**
