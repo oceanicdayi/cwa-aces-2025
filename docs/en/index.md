@@ -43,7 +43,7 @@ Explore the latest advancements from the **Central Weather Administration (CWA)*
 >
 > Have questions about our systems? Ask our AI assistant!
 >
-> * **[Ask the Dify Application](Please paste your Dify App link here)**
+> * **[Ask the Dify Application](https://udify.app/workflow/ZGqKFFhE2yCmYrv1)**
 
 ---
 
@@ -72,7 +72,7 @@ We are streaming and displaying local seismic waveforms live at our booth using 
 We believe in the power of openness and sharing. Developers and researchers are welcome to use our resources:
 
 * **GitHub Repo:** Browse all source code, sample script, and documentation for this site.
-    * **[Go to GitHub Repo](Please paste your GitHub Repo link here)**
+    * **[Go to GitHub Repo](請在這裡貼上您的 GitHub Repo 連結)**
 * **Sample Code:**
     * **[View Sample Code](samples)**
 * **Docker Hub:** (If available)

@@ -42,7 +42,7 @@ layout: default
 >
 > 對我們的系統有疑問嗎？直接詢問 AI 助理！
 >
-> * **[前往 Dify 應用程式提問](請在這裡貼上您的 Dify App 連結)**
+> * **[前往 Dify 應用程式提問](https://udify.app/workflow/ZGqKFFhE2yCmYrv1)**
 
 ---
 
