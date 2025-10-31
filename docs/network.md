@@ -5,7 +5,7 @@ layout: default
 ---
 
 <p style="text-align: right;">
-  <a href="en/network.md"><strong>Switch to English</strong></a>
+  <a href="en/network.html"><strong>Switch to English</strong></a>
 </p>
 
 # 🛰️ CWA 地震觀測網 (CWA Seismic Network)
@@ -193,7 +193,7 @@ CWA 將所有關鍵指標匯集成一個高層級的「系統總覽儀表板」�
 
 Grafana 亦被用來監測最高層的「應用程式」— 地震預警 (EEW) 系統的即時決策與發布狀態。
 
-![GrafANA 監控地震預警(EEW)發布情形](./assets/img/grafana-eew-dashboard.jpg)
+![Grafana 監控地震預警(EEW)發布情形](./assets/img/grafana-eew-dashboard.jpg)
 *圖12：CWA 地震預警(EEW)展示系統儀表板。*
 
 這個儀表板提供了 EEW 系統運作的即時快照：
@@ -295,5 +295,5 @@ CWA 地震資料**歡迎免費使用**，所有資料（包含 CWASN, TSMIP, TGN
 
 ### 相關連結
 
-* **[返回首頁](index.md)**
-* **[深入了解 CWA 地震預警 (EEW) 系統](eew.md)**
+* **[返回首頁](index.html)**
+* **[深入了解 CWA 地震預警 (EEW) 系統](eew.html)**

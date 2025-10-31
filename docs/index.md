@@ -4,7 +4,7 @@ layout: default
 ---
 
 <p style="text-align: right;">
-  <a href="en/index.md"><strong>Switch to English</strong></a>
+  <a href="en/"><strong>Switch to English</strong></a>
 </p>
 
 # 歡迎蒞臨 CWA ACES 研討會攤位
@@ -41,19 +41,19 @@ layout: default
 
 ### 1. CWA 地震觀測網
 介紹 CWA 如何建構並維護臺灣高密度的即時地震觀測網絡，包含強震站與寬頻地震站。
-* **[閱讀更多關於 CWA 觀測網...](network.md)**
+* **[閱讀更多關於 CWA 觀測網...](network.html)**
 
 ### 2. CWA 現行地震預警 (EEW)
 深入了解 CWA 目前的地震預警系統運作機制、發布流程，以及 P 波與 S 波的科學應用。
-* **[閱讀更多關於 CWA EEW...](eew.md)**
+* **[閱讀更多關於 CWA EEW...](eew.html)**
 
 ### 3. AI 輔助地震預警 (AI-EEW)
 展示 CWA 如何與學術界（台大）合作，導入深度學習模型，提升地震事件的偵測速度與震度預估的準確性。
-* **[閱讀更多關於 AI-EEW 計畫...](ai-eew.md)**
+* **[閱讀更多關於 AI-EEW 計畫...](ai-eew.html)**
 
 ### 4. 攤位現場即時展示
 我們在攤位上使用 Raspberry Shake 1D + Raspberry Pi，即時串流並展示本地的地震波形。歡迎您「跺腳」看看波形變化！
-* **[了解 Raspberry Shake 展示...](live-demo.md)**
+* **[了解 Raspberry Shake 展示...](live-demo.html)**
 
 ---
 

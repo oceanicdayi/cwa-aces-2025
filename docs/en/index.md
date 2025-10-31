@@ -5,7 +5,7 @@ title: CWA @ ACES Conference
 ---
 
 <p style="text-align: right;">
-  <a href="../index.md"><strong>切換至中文</strong></a>
+  <a href="../"><strong>切換至中文</strong></a>
 </p>
 
 # Welcome to the CWA Booth at ACES Conference
@@ -42,19 +42,19 @@ Explore the latest advancements from the **Central Weather Administration (CWA)*
 
 ### 1. CWA Seismic Network
 Learn how CWA builds and maintains Taiwan's high-density, real-time seismic network, including strong-motion and broadband stations.
-* **[Read more about the CWA Network...](network.md)**
+* **[Read more about the CWA Network...](network.html)**
 
 ### 2. CWA Earthquake Early Warning (EEW)
 Dive into the operational mechanics, dissemination processes, and scientific application of P and S waves in CWA's current EEW system.
-* **[Read more about CWA EEW...](eew.md)**
+* **[Read more about CWA EEW...](eew.html)**
 
 ### 3. AI-Assisted EEW
 See how CWA collaborates with academia (NTU) to implement deep learning models, improving event detection speed and intensity prediction accuracy.
-* **[Read more about the AI-EEW Project...](ai-eew.md)**
+* **[Read more about the AI-EEW Project...](ai-eew.html)**
 
 ### 4. Live Booth Demo
 We are streaming and displaying local seismic waveforms live at our booth using a Raspberry Shake 1D + Raspberry Pi. Come "stomp" and see the waves!
-* **[Learn about the Live Demo...](live-demo.md)**
+* **[Learn about the Live Demo...](live-demo.html)**
 
 ---
 

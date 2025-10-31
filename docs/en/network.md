@@ -4,7 +4,9 @@ title: CWA Seismic Network
 layout: default
 ---
 
-<p style="text-align: right;"><strong>[切換至中文](../network.md)</strong></p>
+<p style="text-align: right;">
+  <a href="../network.html"><strong>切換至中文</strong></a>
+</p>
 
 # 🛰️ CWA Seismic Network
 
@@ -293,5 +295,5 @@ CWA seismic data is **free to use**. All data (including CWASN, TSMIP, TGNS, etc
 
 ### Related Links
 
-* **[Back to Home](index.md)**
-* **[Learn about CWA Earthquake Early Warning (EEW) System](eew.md)**
+* **[Back to Home](index.html)**
+* **[Learn about CWA Earthquake Early Warning (EEW) System](eew.html)**
