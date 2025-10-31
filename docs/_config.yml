@@ -16,7 +16,7 @@ theme: jekyll-theme-cayman
 # --- GitHub 相關設定 ---
 # 讓 "View on GitHub" 按鈕顯示在頁首
 # 將 [username] 和 [repo_name] 替換成您的資訊
-repository: [username]/[repo_name]
+repository: oceanicdayi/cwa-aces-2025
 
 # --- Jekyll 外掛 ---
 # 預設的外掛，開啟 SEO 標籤
