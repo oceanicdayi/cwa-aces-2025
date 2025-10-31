@@ -40,9 +40,15 @@ layout: default
 
 > ### ❓ Dify 智能問答
 >
-> 對我們的系統有疑問嗎？直接詢問 AI 助理！
+> 對我們的系統有疑問嗎？**直接在下方**詢問 AI 助理！
 >
-> * **[前往 Dify 應用程式提問](https://udify.app/workflow/ZGqKFFhE2yCmYrv1)**
+> <iframe
+> 	src="https://udify.app/workflow/ZGqKFFhE2yCmYrv1"
+> 	frameborder="0"
+> 	width="100%"
+> 	height="600"
+> 	style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;"
+> ></iframe>
 
 ---
 
@@ -75,7 +81,7 @@ layout: default
 * **範例程式碼 (Sample Code):**
     * **[查看範例程式碼](samples)**
 * **Docker Hub:** (如果有的話)
-    * **[前往 Docker Hub 查看映像檔](請在這裡貼上您的 Docker Hub 連結)**
+    * **[前往 Docker Hub 查看映像檔](请在這裡貼上您的 Docker Hub 連結)**
 
 ---
 *中央氣象署 地震測報中心 (CWA Seismological Center)*
