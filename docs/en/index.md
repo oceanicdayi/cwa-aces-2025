@@ -4,7 +4,9 @@ layout: default
 title: CWA @ ACES Conference
 ---
 
-<p style="text-align: right;"><strong>[切換至中文](../index.md)</strong></p>
+<p style="text-align: right;">
+  <a href="../index.md"><strong>切換至中文</strong></a>
+</p>
 
 # Welcome to the CWA Booth at ACES Conference
 
@@ -60,7 +62,7 @@ We are streaming and displaying local seismic waveforms live at our booth using 
 
 We believe in the power of openness and sharing. Developers and researchers are welcome to use our resources:
 
-* **GitHub Repo:** Browse all source code, sample scripts, and documentation for this site.
+* **GitHub Repo:** Browse all source code, sample script, and documentation for this site.
     * **[Go to GitHub Repo](Please paste your GitHub Repo link here)**
 * **Sample Code:**
     * **[View Sample Code](samples)**

@@ -3,7 +3,9 @@
 layout: default
 ---
 
-<p style="text-align: right;"><strong>[Switch to English](en/index.md)</strong></p>
+<p style="text-align: right;">
+  <a href="en/index.md"><strong>Switch to English</strong></a>
+</p>
 
 # 歡迎蒞臨 CWA ACES 研討會攤位
 
