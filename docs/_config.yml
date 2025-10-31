@@ -1,0 +1,34 @@
+# _config.yml
+#
+# 歡迎來到 Jekyll!
+# 這是 CWA ACES 研討會攤位的 GitHub Pages 設定檔
+# https://jekyllrb.com/docs/configuration/
+
+# --- 網站基本設定 ---
+title: CWA 地震觀測網與 AI 預警系統
+description: 歡迎蒞臨 ACES 研討會 CWA 攤位，探索臺灣如何運用先進技術進行地震即時觀測與 AI 預警。
+theme: jekyll-theme-cayman
+
+# --- Logo (可選) ---
+# 將您的 CWA logo 圖片放在 /docs/assets/img/cwa_logo.png
+# logo: /assets/img/cwa_logo.png
+
+# --- GitHub 相關設定 ---
+# 讓 "View on GitHub" 按鈕顯示在頁首
+# 將 [username] 和 [repo_name] 替換成您的資訊
+repository: [username]/[repo_name]
+
+# --- Jekyll 外掛 ---
+# 預設的外掛，開啟 SEO 標籤
+plugins:
+  - jekyll-seo-tag
+
+# --- 內容排除 ---
+# 這些檔案/資料夾在網站建置時會被忽略
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
